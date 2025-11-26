@@ -34,7 +34,7 @@ export default function ToneTestPage() {
     handleKeyMouseDown,
     handleKeyMouseEnter,
   } = useToneTestLogic();
-
+//I see all the new features for the ToneTestPage.jsx file.
   return (
     <div
       style={{
